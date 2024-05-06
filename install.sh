@@ -1,8 +1,8 @@
 #!/bin/bash
 
-USER_CONFIG_PATH="/usr/data/printer_data/config/"
+USER_CONFIG_PATH="/usr/data/printer_data/config"
 MOONRAKER_CONFIG="/usr/data/printer_data/config/moonraker.conf"
-KLIPPER_PATH="/usr/share/klipper/"
+KLIPPER_PATH="/usr/share/klipper"
 
 K_SHAKETUNE_PATH="/usr/data/klippain_shaketune"
 K_SHAKETUNE_VENV_PATH="/usr/data/klippain_shaketune-env"
